@@ -1,0 +1,15 @@
+export const gases = {
+  coGt: "CO (GT)",
+  pt08S1Co: "PT08.S1 (CO)",
+  nmhcGt: "NMHC (GT)",
+  c6h6Gt: "C6H6 (GT)",
+  pt08S2Nmhc: "PT08.S2 (NMHC)",
+  noxGt: "NOx (GT)",
+  pt08S3Nox: "PT08.S3 (NOx)",
+  no2Gt: "NO2 (GT)",
+  pt08S4No2: "PT08.S4 (NO2)",
+  pt08S5O3: "PT08.S5 (O3)",
+  t: "Temperature (T)",
+  rh: "Relative Humidity (RH)",
+  ah: "Absolute Humidity (AH)",
+};
